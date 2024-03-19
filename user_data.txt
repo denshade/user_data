@@ -1,0 +1,4 @@
+This app does not collect data. 
+You cannot login. 
+It does not collect your email address.
+It does not collect anything.
